@@ -1,2 +1,2 @@
 # HighwayAngel
-GameJAM project with them 'Over The Top'
+GameJAM project with theme 'Over The Top'
